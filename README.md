@@ -32,7 +32,7 @@ This repository contains benchmark datasets used in the evaluation of the **Impr
 
 ## ❌ What’s Not Included
 
-- The source code for the IDOA algorithm is **not included** in this repository.
+- The source code for the IDOA algorithm is **not included** in this repository.Additionally, the underwater sensor network simulation application data is not provided here.
 - Please refer to the published manuscript for implementation details.
 
 ## 📬 Contact
